@@ -1,2 +1,2 @@
-# My-first-reddy-repo
-A short guide to connecting a git repo to Github
+# My-second-reddy-repo
+second method to connect git repo to Github
